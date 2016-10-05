@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/KMN_backend/KMN_backend.iml" filepath="$PROJECT_DIR$/KMN_backend/KMN_backend.iml" />
       <module fileurl="file://$PROJECT_DIR$/KillMeNow.iml" filepath="$PROJECT_DIR$/KillMeNow.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
